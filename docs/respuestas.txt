@@ -1,1 +1,10 @@
 Trabajo en equipo con git
+
+¿Cuál es la diferencia entre compilación e interpretación?
+
+La compilación traduce un programa escrito en un lenguaje de programación
+a otro lenguaje de programación.
+
+La interpretación analiza y ejecuta un programa escrito en
+el lenguaje fuente original sin efectuar una traducción
+y generar otro programa. Lo hace instrucción por instrucción.
